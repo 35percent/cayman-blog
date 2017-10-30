@@ -21,4 +21,6 @@ The Compulsory Purchase of the 57-76 Northchurch block is part of the phase of t
 
 1. The Design and Access document for Plot 18 clearly shows that the land where 57-76 Northchurch is located, will be used for a temporary parking space. We argue the purpose of using the land as a temporary car park, is not a strong enough reason to compulsory purchase our homes. 
 
-2.  The Report that is up for discussion on Tuesday states that _"An application has been submitted to amend the consented tenure mix for Plot 18 in line with the revised tenure mix reported to cabinet in May 2017”_. Having checked the planning register today, we see no application _“submitted to amend the consented tenure mix for Plot 18.”_ (point 1, page 94)
+2. The Report that is up for discussion on Tuesday states that _"An application has been submitted to amend the consented tenure mix for Plot 18 in line with the revised tenure mix reported to cabinet in May 2017”_. Having checked the planning register today, we see no application _“submitted to amend the consented tenure mix for Plot 18.”_ (point 1, page 94)
+
+3. The planning application seeks to reduce the number of social rented homes in this phase, well below the previous approved tenure mix and well below the 37.5% minimum requirement in the Council's planning policy. 
