@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Full Council meeting convenes to approve CPO on next phase but fails to inform residents"
+title: "Full Council meeting convenes to approve issuing CPO but fails to inform affected residents"
 ---
 On Thursday 26 October 2017, one of the leaseholders of properties within the 57-76 Northchurch block on the Aylesbury estate, were informed by an acquaintance that Southwark Council is setting in motion the process to compulsory purchase our homes. 
 
