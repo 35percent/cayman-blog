@@ -8,7 +8,7 @@
 # Site settings
 title: "Aylesbury Leaseholders"
 description: "The people forgotten by Blair's regeneration" # write a nice description for your blog
-baseurl: '/forgotten-people' # the subpath of your site, e.g. /blog
+baseurl: '/ouraylesbury' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site http://www.example.com
 # google_analytics: 'UA-XXXXXX-X'
 twitter_username: ''
