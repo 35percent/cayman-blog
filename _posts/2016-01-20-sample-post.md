@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Aylesbury estate's forgotten people"
+title: "Forced out by regeneration"
 ---
 We are the Aylesbury estate's forgotten people. The regeneration has forgotten us and we are being [forced out with derisory compensation offers](http://heygatewashome.org/img/SNWolverton.pdf) under [compulsory purchase](http://heygatewashome.org/img/SouthwarkNews9July2014.pdf).
 
