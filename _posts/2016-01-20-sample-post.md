@@ -19,7 +19,7 @@ However, the like-for-like option was later removed from policy shortly after th
 
 We have been [fighting](http://35percent.org/2015-05-02-aylesbury-estate-compulsory-purchase-order-public-inquiry/) the Council's [attempt to evict us](http://www.bbc.co.uk/news/uk-england-london-29098960) using compulsory purchase powers and last year we scored a major victory when the Secretary of State [rejected](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) Southwark’s application for CPO powers in a landmark legal decision. The secretary of state [said](http://35percent.org/img/Decision_Letter_Final.pdf) that our basic human and equalities rights were being breached by the Council as a result of many elderly leaseholders and those from black and ethnic minority groups were being forced to relocate because of the scheme.
 
-![](/forgotten-people/img/oscprotest2.jpg)
+![](/ouraylesbury/img/oscprotest2.jpg)
 
 Instead of acknowledging its breach of our human rights and remedying it by improving its offers or re-instating the like-for-like policy, Southwark chose to challenge the Secretary of State's decision in the High Court. Instead of wasting of engaging in a lengthy and costly High Court battle, the Secretary of State decided to quash his decision notice and hold a re-run of the public inquiry. This is now due to be held in January 2018 with and a revised decision is due to be issued several months after the inquiry. 
 
