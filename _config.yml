@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "Aylesbury's Forgotten People"
+title: "Forgotten Aylesbury"
 description: "The people forgotten by Blair's regeneration" # write a nice description for your blog
 baseurl: '/forgotten-people' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site http://www.example.com
 # google_analytics: 'UA-XXXXXX-X'
-twitter_username: 'aylesburyalag'
+twitter_username: ''
 
 # Build settings
 markdown: kramdown
