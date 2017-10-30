@@ -2,7 +2,7 @@
 layout: post
 title: "Forced out by regeneration"
 ---
-We are the Aylesbury estate regeneration's forgotten people. The regeneration has forgotten us and we are being [forced out with derisory compensation offers](http://heygatewashome.org/img/SNWolverton.pdf) under [compulsory purchase](http://heygatewashome.org/img/SouthwarkNews9July2014.pdf).
+We are the Aylesbury estate regeneration's forgotten people. The regeneration is [forcing us out with derisory compensation offers](http://heygatewashome.org/img/SNWolverton.pdf) using [compulsory purchase orders](http://heygatewashome.org/img/SouthwarkNews9July2014.pdf).
 
 [Investigations by the Guardian](https://www.theguardian.com/cities/2016/sep/20/aylesbury-estate-ruling-future-regeneration-sajid-javid) have shown how the Council as paying as little as £75k for a large (47m2) 1-bed flat, when equivalent ex-council properties in the area are selling for five times this amount.
 
