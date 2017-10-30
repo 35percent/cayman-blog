@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sample post
+title: "Long-term leaseholders"
+subtitle: "The Aylesbury estate's forgotten people"
 ---
-
 We are the Aylesbury estate's forgotten people. The regeneration has forgotten us and we are being forced out with derisory compensation offers under compulsory purchase.
 
 [Investigations by the Guardian](https://www.theguardian.com/cities/2016/sep/20/aylesbury-estate-ruling-future-regeneration-sajid-javid) have shown how the Council as paying as little as £75k for a large (47m2) 1-bed flat, when equivalent ex-council properties in the area are selling for five times this amount.
