@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Long-term leaseholders"
-subtitle: "The Aylesbury estate's forgotten people"
+title: "The Aylesbury estate's forgotten people"
 ---
 We are the Aylesbury estate's forgotten people. The regeneration has forgotten us and we are being forced out with derisory compensation offers under compulsory purchase.
 
