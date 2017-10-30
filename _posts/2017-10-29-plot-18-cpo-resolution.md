@@ -9,7 +9,7 @@ It was discovered that at the upcoming Southwark Cabinet meeting, scheduled for 
 ![](/img/aylesburyplot18.png)
 *Plot 18 - former play area and creche facility*
 
-We, the leaseholders, did not receive a formal notification from the Council that the future of our homes will be discussed at the meeting. The Council is under no legal obligation to do so, but we maintain that it would a matter of good practice on behalf of a public authority, to communicate with us concerned parties in a timely and clear manner, one that will allow us to respond and deliver our comments and objections within the established deadlines.
+We, the leaseholders of Northchurch, did not receive a formal notification from the Council that the future of our homes will be discussed at the meeting. The Council is under no legal obligation to do so, but we maintain that it would a matter of good practice on behalf of a public authority, to communicate with us concerned parties in a timely and clear manner, one that will allow us to respond and deliver our comments and objections within the established deadlines.
 
 Because of this lack of communication from Southwark Council, we missed the deadline to put in a deputation to present our objections and concerns to the Cabinet. We have therefore have put in a late application request to Council leader Peter John, and are awaiting his response. 
 
