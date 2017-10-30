@@ -23,4 +23,6 @@ The Compulsory Purchase of the 57-76 Northchurch block is part of the phase of t
 
 2. The Report that is up for discussion on Tuesday states that _"An application has been submitted to amend the consented tenure mix for Plot 18 in line with the revised tenure mix reported to cabinet in May 2017”_. Having checked the planning register today, we see no application _“submitted to amend the consented tenure mix for Plot 18.”_ (point 1, page 94)
 
-3. The planning application seeks to reduce the number of social rented homes in this phase, well below the previous approved tenure mix and well below the 37.5% minimum requirement in the Council's planning policy. 
+3. The planning application seeks to reduce the number of social rented homes in this phase, well below the previous approved tenure mix and well below the 37.5% minimum requirement in the Council's planning policy.
+
+Please join us to rally against the Council's compulsory purchase of our homes at its Cabinet meeting on Tuesday 31 October 4pm - Council HQ 160 Tooley St SE1 2QH. Full details here: [http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=5752&Ver=4](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=302&MId=5752&Ver=4)
