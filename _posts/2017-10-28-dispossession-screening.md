@@ -6,4 +6,4 @@ On Saturday 11th November 2017 we are hepling to host the screening of 'Disposse
 
 Please come along and support our camaign - all donations will go towards our legal fees in fighting the legal case against the Council's ongoing attempts to evict us.
 
-![](/dispossession.jpg)
+![](/img/dispossession.jpg)
