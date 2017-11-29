@@ -1,6 +1,6 @@
 ---
 layout: default
-Title: "Fighting to save OUR Aylesbury from THEIR regeneration"
+title: "Fighting to save OUR Aylesbury from THEIR regeneration"
 ---
 We are the Aylesbury estate regeneration's forgotten people. The regeneration is [forcing us out with derisory compensation offers](http://heygatewashome.org/img/SNWolverton.pdf) using [compulsory purchase orders](http://heygatewashome.org/img/SouthwarkNews9July2014.pdf).
 
