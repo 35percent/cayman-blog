@@ -10,9 +10,9 @@ To help raise more funds local filmmaker [Nikki Woolfe](http://www.woolfe.vision
 
 ![](http://concretesoldiers.uk/____impro/1/onewebmedia/CSposter1122x1654sml.jpg)
 
-The screening will be followed by performances from beatboxer BELLATRIX and poet POTENT WHISPER, followed by a discussion. Tickets are available online here: [http://concretesoldiers.uk/8dec.html](http://concretesoldiers.uk/8dec.html)
+The screening will be followed by performances from beatboxer BELLATRIX and poet POTENT WHISPER, followed by a discussion. [Here](/img/concretesoldiers.pdf) is a link to the flyer and tickets are available online at the following url: [http://concretesoldiers.uk/8dec.html](http://concretesoldiers.uk/8dec.html)
 
-Thanks again to everyone for their ongoing support and look forward to seeing you at the screening on 8th Dec.
+Thanks again to everyone for their ongoing support and look forward to seeing you at the Cinema Museum on 8th Dec.
 
 _Beverley_
 
