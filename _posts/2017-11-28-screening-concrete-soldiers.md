@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Concrete Soldiers"
+title: "Concrete Soldiers - film screening fundraiser"
 ---
 Thank you to all those who came to and helped make our [film night on 11th November](http://ouraylesbury.org/page2/) a success and for all of the generous donations received.
 
@@ -12,7 +12,9 @@ To help raise more funds local filmmaker [Nikki Woolfe](http://www.woolfe.vision
 
 The screening will be followed by performances from beatboxer BELLATRIX and poet POTENT WHISPER, followed by a discussion. Tickets are available online here: [http://concretesoldiers.uk/8dec.html](http://concretesoldiers.uk/8dec.html)
 
-Thanks to all of our supporters and look forward to seeing you at the screening on 8th Dec.
+Thanks again to everyone for their ongoing support and look forward to seeing you at the screening on 8th Dec.
+
+_Beverley_
 
 
 
