@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "Fighting to save OUR Aylesbury from THEIR regeneration"
+title: "Save OUR Aylesbury from THEIR regeneration"
 ---
-We are the Aylesbury estate regeneration's forgotten people. The regeneration is [forcing us out with derisory compensation offers](http://heygatewashome.org/img/SNWolverton.pdf) using [compulsory purchase orders](http://heygatewashome.org/img/SouthwarkNews9July2014.pdf).
+## Save OUR Aylesbury from THEIR regeneration
+We are fighting to save our community from a top-down regeneration that is [forcing us out with derisory compensation offers](http://heygatewashome.org/img/SNWolverton.pdf) using [compulsory purchase orders](http://heygatewashome.org/img/SouthwarkNews9July2014.pdf).
 
 [Investigations by the Guardian](https://www.theguardian.com/cities/2016/sep/20/aylesbury-estate-ruling-future-regeneration-sajid-javid) have shown how the Council as paying as little as £75k for a large (47m2) 1-bed flat, when equivalent ex-council properties in the area are selling for five times this amount.
 
