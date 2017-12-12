@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "35% Campaign witness evidence"
-subtitle: "Aylesbury estate CPO public inquiry, Oct 2017"
+title: "ALAG Witness Evidence"
+subtitle: "Aylesbury estate CPO public inquiry, Jan 2018. PINS REFERENCE: NPCU/CPO/A5840/74092"
 ---
 ![](http://35percent.org/img/phase1baerial.png)
 
