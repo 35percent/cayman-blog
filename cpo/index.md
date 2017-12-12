@@ -1,46 +1,20 @@
 ---
 layout: page
 title: "ALAG Witness Evidence"
-subtitle: "Aylesbury estate CPO public inquiry, Jan 2018. PINS REFERENCE: NPCU/CPO/A5840/74092"
 ---
 ![](http://35percent.org/img/phase1baerial.png)
 
-**Table of Contents:**
+## Aylesbury estate CPO public inquiry, Jan 2018 - PINS REFERENCE: NPCU/CPO/A5840/74092
+
+**Witnesses:**
 * TOC
 {:toc}
 
-Link to Cabinet report about HIP position: https://twitter.com/hhrca/status/889194753925021697
+## Peter Raynham
+[Proof of Evidence]
+[Curriculum Vitae](/cpo/peterraynhamcv.pdf)
 
-## The Scheme is no longer in accordance with the development plan
-@. A key requirement of the compulsory purchase code is that the Scheme underlying the Order must conform with the requirements of the statutory development plan. Paragraph 76 of the [06/04 ODPM Circular](https://www.gov.uk/government/publications/compulsory-purchase-and-the-crichel-down-rules-circular-06-2004) lists a key consideration as _"whether the purpose for which the land is being acquired fits in with the adopted Local Plan for the area"_ and specifies that _"any programme of land assembly needs to be set within a clear strategic framework, and this will be particularly important when demonstrating the justification for acquiring land compulsorily under section 226(1)(a) powers as a means of furthering the well-being of the wider area."_.
-
-@. The adopted Local Plan for the Scheme underlying this Order (“the Scheme”) is the [Aylesbury Area Action Plan 2010](http://www.2.southwark.gov.uk/download/downloads/id/13132/aylesbury_area_action_plan_2010_inc_appendices) (“AAAP”) [CD2], which was adopted in January 2010 as part of the Acquiring Authority's local development framework.
-
-@. As a result of the [withdrawal of £180m government funding](http://www.2.southwark.gov.uk/news/article/159/government_to_withdraw_pfi_funding_for_aylesbury) envisaged by the AAAP and subsequent changes in housing policy affecting the viability of the Scheme, it now fails to comply with the following requirements of the development plan:
-
- * Minimum number of new homes requirements
- * Net loss of affordable housing requirements
- * Dwelling size requirements
- * Minimum space standards
- * Wheelchair accessible requirements
- * Affordable Housing Tenure requirements
- * Renewable Energy requirements
- * Building Heights requirements
- * Sunlight/Daylight requirements
- * Open Space requirements
- * Transport/public realm requirements
- * Private Amenity Space requirements
- * Dual aspect design requirements
- * Privacy and overlooking requirements
- * Play Space requirements
- * Land use requirements
- * Density requirements
- * Monitoring and compliance 
- * Infrastructure/public sector funding requirements
- * AAAP rehousing requirements
- * Requirements of the Mayor's [Equality and Diversity SPG](https://www.london.gov.uk/file/8173/download?token=1Svk6LBu)
-
-## Breach of housing uplift requirements
+## Pat Turnbull 
 @. The AAAP says:
 
 >"3.1.4 The London Plan’s requirement for Southwark is 16,300 new homes by 2016/2017. The AAP will deliver about 1,450 extra homes to contribute towards this target."
