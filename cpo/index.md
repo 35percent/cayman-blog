@@ -7,8 +7,14 @@ title: "ALAG Witness Evidence</br>CPO Public Inquiry (FDS site), Jan 2018</br> P
 * TOC
 {:toc}
 
+## Richard Baxter [RB]
+[RB - Proof of Evidence](/cpo/richardbaxterproof.pdf)  
+[RB - Summary of Evidence](/cpo/richardbaxtersummary.pdf)  
+[RB - Curriculum vitae](/cpo/richardbaxtercv.pdf)  
+
 ## Ben Campkin [BC]
 [BC - Proof of Evidence](/cpo/bencampkinproof.pdf)  
+[BC - Curriculum Vitae](/cpo/bencampkincv.pdf)  
 [BC1 - Press articles, (15/12/2005;23/06/2005)](/cpo/BC1.pdf)  
 [BC2 - Independent Review of the Council's Equality & Diversity Framework - Lord Ouseley, March 2005](/cpo/BC2.pdf)  
 [BC3 - Chief Executive report (14/12/05), Cross-Party Working Group](/cpo/BC3.pdf)  
@@ -18,11 +24,11 @@ title: "ALAG Witness Evidence</br>CPO Public Inquiry (FDS site), Jan 2018</br> P
 ## Peter Raynham (PR)
 [PR - Proof of Evidence]  
 [PR - Summary of Proof](/cpo/peterraynhamsummary.pdf)  
-[Curriculum Vitae](/cpo/peterraynhamcv.pdf)  
-  
+[BR - Curriculum Vitae](/cpo/peterraynhamcv.pdf)  
+
 ## Pat Turnbull (PT)
 [PT - Proof of Evidence](/cpo/patturnbullproof.pdf)  
-[Curriculum Vitae](/cpo/patturnbullcv.pdf)  
+[PT - Curriculum Vitae](/cpo/patturnbullcv.pdf)  
 
 ## Loretta Lees (LL)
 [LL - Proof of Evidence](/cpo/lorettaleesproof.pdf)  
