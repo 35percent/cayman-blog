@@ -22,8 +22,13 @@ title: "ALAG Witness Evidence</br>CPO Public Inquiry (FDS site), Jan 2018</br> P
 ## 35% Campaign witnesses
  
 ### Richard Lee (RL)
-[RL - Proof of Evidence]
-[RL - Summary of Proof]
+[RL - Proof of Evidence](/cpo/richardleeproof.pdf)  
+[RL - Summary of Proof](/cpo/richardleesummary.pdf)  
+[RL1 – Extract from AAAP Sustainability Assessment](/RL1.pdf)  
+[RL2 – FDS Revised Energy Strategy (14/AP/3843)](/cpo/RL2.pdf)  
+[RL3 – Extract from FDS revised planning statement (14/AP/3843)](/cpo/RL3.pdf)  
+[RL4 – AAAP Background Paper, Infrastructure Tariff and S106 Contributions](/cpo/RL4.pdf)  
+[RL5 – Residential Design Standards SPD 2011 (2015 update version)](/cpo/RL5.pdf)  
  
 ### Jerry Flynn (JF)
 [Jerry Flynn] 
@@ -41,7 +46,7 @@ title: "ALAG Witness Evidence</br>CPO Public Inquiry (FDS site), Jan 2018</br> P
 [RN8 - Moody's credit rating history for NHHT](/cpo/RN8.pdf)  
 [RN9 - FT article (23/06/2016)](/cpo/RN9.pdf)  
 [RN10 - 35% Campaign blog post (18/03/2015)](/cpo/RN10.pdf)  
-[RN11 - Southwark Council's DEVELOPMENT VIABILITY SPD, March 2016](/cpo/RN11.pdf)
+[RN11 - Southwark Council's DEVELOPMENT VIABILITY SPD, March 2016](/cpo/RN11.pdf)  
 [RN12 - GLA planning report (D&P/0543G/01)](/cpo/RN12.pdf)  
 [RN13 - Guardian article (07/08/2015)](/cpo/RN13.pdf)  
 [RN14 - Inside Housing article (04/08/15)](/cpo/RN14.pdf)  
@@ -52,7 +57,7 @@ title: "ALAG Witness Evidence</br>CPO Public Inquiry (FDS site), Jan 2018</br> P
 [RN19 - Application for s106 variation to phase 1a scheme (14/AP/3717, 30 Sep 2014)](/cpo/RN19.pdf)  
 [RN20 - Phase 1a accomodation schedule (14/AP/3717)](/cpo/RN20.pdf)  
 [RN21 - Inside Housing article (14/09/2017)](/cpo/RN21.pdf)  
-[RN22 - G15 Capital Structure and Gearing Study](/cpo/RN22.pdf)
+[RN22 - G15 Capital Structure and Gearing Study](/cpo/RN22.pdf)  
 [RN23 - Steve Hilditch blogpost (07/01/2017)](/cpo/RN23.pdf)  
 [RN24 - This is Money article (03/09/2009)](/cpo/RN24.pdf)  
 [RN25 - Guardian article (29/03/2015)](/cpo/RN25.pdf)  
