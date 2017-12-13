@@ -19,4 +19,26 @@ title: "ALAG Witness Evidence</br>CPO Public Inquiry (FDS site), Jan 2018</br> P
 [Proof of Evidence]
 [Summary of Proof](/cpo/lorettaleessummary.pdf)  
 
+## 35% Campaign witnesses
 
+### Richard Lee
+[Richard Lee]
+
+### Jerry Flynn
+[Jerry Flynn]
+
+### Rastko Novakovic
+[Rastko Novakovic]
+
+## Aylesbury leaseholders
+
+### Beverley Robinson
+
+### Agnes Kabuto
+
+### Victoria Briden
+[Proof of Evidence](/cpo/victoriabridenproof.pdf)  
+[VB1 - Major Works Bill](/cpo/VB1.pdf)  
+[VB1 - Photograph of Taplow](/cpo/VB2.pdf)  
+[VB1 - Photograph of Taplow](/cpo/VB3.pdf)  
+[VB1 - Guardian article (27/12/2001)](/cpo/VB4.pdf)  
