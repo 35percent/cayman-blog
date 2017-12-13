@@ -7,12 +7,12 @@ title: "ALAG Witness Evidence</br>CPO Public Inquiry (FDS site), Jan 2018</br> P
 * TOC
 {:toc}
 
-## Richard Baxter [RB]
+## Richard Baxter (RB)
 [RB - Proof of Evidence](/cpo/richardbaxterproof.pdf)  
 [RB - Summary of Evidence](/cpo/richardbaxtersummary.pdf)  
 [RB - Curriculum vitae](/cpo/richardbaxtercv.pdf)  
 
-## Ben Campkin [BC]
+## Ben Campkin (BC)
 [BC - Proof of Evidence](/cpo/bencampkinproof.pdf)  
 [BC - Curriculum Vitae](/cpo/bencampkincv.pdf)  
 [BC1 - Press articles, (15/12/2005;23/06/2005)](/cpo/BC1.pdf)  
