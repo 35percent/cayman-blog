@@ -23,9 +23,17 @@ title: "ALAG Witness Evidence</br>CPO Public Inquiry (FDS site), Jan 2018</br> P
 ## Pat Turnbull (PT)
 [PT - Proof of Evidence](/cpo/patturnbullproof.pdf)  
 [Curriculum Vitae](/cpo/patturnbullcv.pdf)  
+
 ## Loretta Lees (LL)
-[Proof of Evidence]
-[Summary of Proof](/cpo/lorettaleessummary.pdf)  
+[LL - Proof of Evidence](/cpo/lorettaleesproof.pdf)  
+[LL - Summary of Proof](/cpo/lorettaleessummary.pdf)  
+[LL1 - Displacement maps](/cpo/LL1.pdf)  
+[LL2 - Sample ESRC research interviews](/cpo/LL2.pdf)  
+[LL3 - Sample ESRC research interviews](/cpo/LL3.pdf)  
+[LL4 - 2015 Benchmark report for future monitoring of the regeneration
+programme, Nov 2017](/cpo/LL4.pdf)  
+[LL5 – Press article ‘Metro’ (9/10/2017)](/cpo/LL5.pdf)  
+[LL6 - Southwark News article (4/5/2017)](/cpo/LL6.pdf)  
 
 ## 35% Campaign witnesses
  
