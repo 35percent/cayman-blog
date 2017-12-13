@@ -7,6 +7,14 @@ title: "ALAG Witness Evidence</br>CPO Public Inquiry (FDS site), Jan 2018</br> P
 * TOC
 {:toc}
 
+## Ben Campkin [BC]
+[BC - Proof of Evidence](/cpo/bencampkinproof.pdf)  
+[BC1 - Press articles, (15/12/2005;23/06/2005)](/cpo/BC1.pdf)  
+[BC2 - Independent Review of the Council's Equality & Diversity Framework - Lord Ouseley, March 2005](/cpo/BC2.pdf)  
+[BC3 - Chief Executive report (14/12/05), Cross-Party Working Group](/cpo/BC3.pdf)  
+[BC4 - Remaking London: Decline and Regeneration in Urban Culture (2013) (Extract)](/cpo/BC4.pdf)  
+[BC5 - Urban Pamphleteer#2 - ‘Regeneration Realities’, UCL Urban Laboratory, 2014](/cpo/BC5.pdf)  
+
 ## Peter Raynham (PR)
 [PR - Proof of Evidence]  
 [PR - Summary of Proof](/cpo/peterraynhamsummary.pdf)  
@@ -28,7 +36,6 @@ title: "ALAG Witness Evidence</br>CPO Public Inquiry (FDS site), Jan 2018</br> P
 [RL2 – FDS Revised Energy Strategy (14/AP/3843)](/cpo/RL2.pdf)  
 [RL3 – Extract from FDS revised planning statement (14/AP/3843)](/cpo/RL3.pdf)  
 [RL4 – AAAP Background Paper, Infrastructure Tariff and S106 Contributions](/cpo/RL4.pdf)  
-[RL5 – Residential Design Standards SPD 2011 (2015 update version)](/cpo/RL5.pdf)  
  
 ### Jerry Flynn (JF)
 [Jerry Flynn] 
