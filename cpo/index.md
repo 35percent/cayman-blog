@@ -61,17 +61,26 @@ title: "ALAG Witness Evidence</br>CPO Public Inquiry (FDS site), Jan 2018</br> P
 
 ## Jane Rendell (JR)
 [JR - Proof of evidence](/cpo/janerendellproof.pdf)  
+[JR - Curriculum Vitae](/cpo/janerendellcv.pdf)  
 [JR1 - Annex C ‘Indicative Cashflow Forecast’ (omitted from CD8)](/cpo/JR1.pdf)  
-[JR2 - Frost Associates, Aylesbury Estate Regeneration Total Cost Review, 6 May 2005](/cpo/JR2.pdf)  
-[JR3 - BPTW, Report on Estimated Costs for Estate Wide Refurbishment Options on the Aylesbury Estate April 2005](/cpo/JR3.pdf)  
-[JR4 - Conisbee, BPTW, Aylesbury Estate Regeneration Briefing Report on Structural Robustness of 5 and 6 Storey Jesperson Blocks, November 2004](/cpo/JR4.pdf)  
-[JR5 - Table, Conisbee, BPTW, Aylesbury Estate Regeneration Briefing Report on Structural Robustness of 5 and 6 Storey Jesperson Blocks, November 2004, p. 10](/cpo/JR5.pdf)  
-[JR6 - Alton Area Masterplan Report, October 2014](/cpo/JR6.pdf)  
-[JR7: Planning Permission Granted for 1-172 Chiltern House, 10 February 2010 -ref: 04/CO/0152](/cpo/JR7.pdf)  
+[JR2 - Bernstein, PTE, BPTW, Aylesbury Estate Regeneration, SW Corner, July 2005, Volume 1 Executive Summary and Stage E Report and Volume 2, Supplement to Stage E Report.](/cpo/JR2.pdf)  
+[JR3 - Frost Associates, Aylesbury Estate Regeneration Total Cost Review, 6 May 2005.](/cpo/JR3.pdf)  
+[JR4 - BPTW, Report on Estimated Costs for Estate Wide Refurbishment Options on the Aylesbury Estate April 2005](/cpo/JR4.pdf)  
+[JR5 - Conisbee, BPTW, Aylesbury Estate Regeneration Briefing Report on Structural Robustness of 5 and 6 Storey Jesperson Blocks, November 2004.](/cpo/JR5.pdf)  
+[JR6 - Table, Conisbee, BPTW, Aylesbury Estate Regeneration Briefing Report on Structural Robustness of 5 and 6 Storey Jesperson Blocks, November 2004, p. 10.](/cpo/JR6.pdf)  
+[JR7 - Bernstein, PTE, BPTW, Aylesbury Estate Regeneration, SW Corner, July 2005, Volume 1 Executive Summary and Stage E Report and Volume 2, Supplement to Stage E Report, volume 1, 01 Executive Summary, p. 1.3](/cpo/JR7.pdf)  
+[JR8 - Alton Area Masterplan Report, October 2014](/cpo/JR8.pdf)  
+[JR9 - Bernstein, PTE, BPTW, Aylesbury Estate Regeneration, SW Corner, July 2005, Volume 1 Executive Summary and Stage E Report and Volume 2, Supplement to Stage E Report, volume 1, 02 Introduction, p. 2.1](/cpo/JR9.pdf)  
+[JR10 - Planning Permission Granted for 1-172 Chiltern House, 10 February 2010](/cpo/JR10.pdf)  
 
 ## Pat Turnbull (PT)
-[PT - Proof of Evidence](/cpo/patturnbullproof.pdf)  
+[PT - Proof of evidence](/cpo/patturnbullproof.pdf)  
 [PT - Curriculum Vitae](/cpo/patturnbullcv.pdf)  
+
+## George Turner (GT)
+[GT - Proof of evidence](/cpo/georgeturnerproof.pdf)  
+[GT1 - Guardian article (20/09/2016)](/cpo/GT1.pdf)  
+[GT2 - 
 
 ## Loretta Lees (LL)
 [LL - Proof of Evidence](/cpo/lorettaleesproof.pdf)  
