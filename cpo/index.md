@@ -116,11 +116,22 @@ programme, Nov 2017](/cpo/LL4.pdf)
 [RN25 - Guardian article (29/03/2015)](/cpo/RN25.pdf)  
 [RN26 - Southwark News article (01/10/2015)](/cpo/RN26.pdf)  
 
-## Aylesbury leaseholders
+## Aylesbury leaseholders (statutory objectors)
  
 ### Beverley Robinson
 
-### Agnes Kabuto
+### Agnes Kabuto (SAK)
+[SAK - Proof of evidence](/cpo/agneskabutoproof.pdf)  
+[SAK - Summary of evidence](/cpo/agneskabutosummary.pdf)  
+[SAK1 – View over Burgess Park from balcony](/cpo/SAK1.pdf)  
+[SAK2 – Email communication with NHHT (dated 24/11/2015)](/cpo/SAK2.pdf)  
+[SAK3 – Email communication with L&Q (dated 28/09/2016)](/cpo/SAK3.pdf)  
+[SAK4 – Copy of my lease, SAK4a -shared ownership lease, SAK4b Deed of Variation;](/cpo/SAK4.pdf)  
+[SAK5 – Email communications between FDS leaseholder and Council (dated 5/09/2013)](/cpo/SAK5.pdf)  
+[SAK6 – photographs of local ethnic shops](/cpo/SAK6.pdf)  
+[SAK7 – L&Q Shared equity summary note](/cpo/SAK7.pdf)  
+
+## Non Statutory objectors
 
 ### Victoria Briden (VB)
 [VB - Proof of Evidence](/cpo/victoriabridenproof.pdf)  
