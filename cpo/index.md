@@ -54,9 +54,20 @@ title: "ALAG Witness Evidence</br>CPO Public Inquiry (FDS site), Jan 2018</br> P
 [SM18-2 - Option to retain Chiltern](/cpo/SM18-2.pdf)  
 
 ## Peter Raynham (PR)
-[PR - Proof of Evidence]  
-[PR - Summary of Proof](/cpo/peterraynhamsummary.pdf)  
-[BR - Curriculum Vitae](/cpo/peterraynhamcv.pdf)  
+[PR - Proof of evidence](/cpo/peterraynhamproof.pdf)  
+[PR - Summary of proof](/cpo/peterraynhamsummary.pdf)  
+[PR - Curriculum Vitae](/cpo/peterraynhamcv.pdf)  
+[PR1 - GL Hearn supporting statement to FDS amended application(17/AP/3885)](/cpo/PR1.pdf)  
+
+## Jane Rendell (JR)
+[JR - Proof of evidence](/cpo/janerendellproof.pdf)  
+[JR1 - Annex C ‘Indicative Cashflow Forecast’ (omitted from CD8)](/cpo/JR1.pdf)  
+[JR2 - Frost Associates, Aylesbury Estate Regeneration Total Cost Review, 6 May 2005](/cpo/JR2.pdf)  
+[JR3 - BPTW, Report on Estimated Costs for Estate Wide Refurbishment Options on the Aylesbury Estate April 2005](/cpo/JR3.pdf)  
+[JR4 - Conisbee, BPTW, Aylesbury Estate Regeneration Briefing Report on Structural Robustness of 5 and 6 Storey Jesperson Blocks, November 2004](/cpo/JR4.pdf)  
+[JR5 - Table, Conisbee, BPTW, Aylesbury Estate Regeneration Briefing Report on Structural Robustness of 5 and 6 Storey Jesperson Blocks, November 2004, p. 10](/cpo/JR5.pdf)  
+[JR6 - Alton Area Masterplan Report, October 2014](/cpo/JR6.pdf)  
+[JR7: Planning Permission Granted for 1-172 Chiltern House, 10 February 2010 -ref: 04/CO/0152](/cpo/JR7.pdf)  
 
 ## Pat Turnbull (PT)
 [PT - Proof of Evidence](/cpo/patturnbullproof.pdf)  
@@ -116,7 +127,7 @@ programme, Nov 2017](/cpo/LL4.pdf)
 [RN25 - Guardian article (29/03/2015)](/cpo/RN25.pdf)  
 [RN26 - Southwark News article (01/10/2015)](/cpo/RN26.pdf)  
 
-## Aylesbury leaseholders (statutory objectors)
+## Aylesbury leaseholders
  
 ### Beverley Robinson
 
@@ -130,8 +141,6 @@ programme, Nov 2017](/cpo/LL4.pdf)
 [SAK5 – Email communications between FDS leaseholder and Council (dated 5/09/2013)](/cpo/SAK5.pdf)  
 [SAK6 – photographs of local ethnic shops](/cpo/SAK6.pdf)  
 [SAK7 – L&Q Shared equity summary note](/cpo/SAK7.pdf)  
-
-## Non Statutory objectors
 
 ### Victoria Briden (VB)
 [VB - Proof of Evidence](/cpo/victoriabridenproof.pdf)  
