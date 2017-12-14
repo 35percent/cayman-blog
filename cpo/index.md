@@ -8,9 +8,18 @@ title: "ALAG Witness Evidence</br>CPO Public Inquiry (FDS site), Jan 2018</br> P
 {:toc}
 
 ## Richard Baxter (RB)
-[RB - Proof of Evidence](/cpo/richardbaxterproof.pdf)  
-[RB - Summary of Evidence](/cpo/richardbaxtersummary.pdf)  
+[RB - Proof of evidence](/cpo/richardbaxterproof.pdf)  
+[RB - Summary of evidence](/cpo/richardbaxtersummary.pdf)  
 [RB - Curriculum vitae](/cpo/richardbaxtercv.pdf)  
+
+## Bob Colenutt (BCT)
+[BCT - Proof of evidence](/cpo/bobcolenuttproof.pdf)  
+[BCT - Summary of evidence](/cpo/bobcolenuttsummary.pdf)  
+[BCT - Curriculum Vitae](/cpo/bobcolenuttcv.pdf)  
+[BCT1 - Information Tribunal decision notices (EA/2014/0122, EA/2013/0162)](/cpo/BCT1.pdf)  
+[BCT2 - Presentation to office of Information Commissioner (23/02/2015)](/cpo/BCT2.pdf)  
+[BCT3 - Guardian articles dated (14/07/2015, 25/06/2015)](/cpo/BCT3.pdf)  
+[BCT4 - GLA Planning Committee meeting on Development Viability, 17/11/2015](/cpo/BCT4.pdf)   
 
 ## Ben Campkin (BC)
 [BC - Proof of Evidence](/cpo/bencampkinproof.pdf)  
