@@ -120,7 +120,6 @@ AM4 - Displacement maps, produced by Southwark Notes, 35 per cent campaign, Just
 AM5 - Screenshot from property website Zoopla, December 5th 2017 (see proof)  
 [AM6 - Tenure diagram for site 7 planning consent (12/AP/2332)](/cpo/AM6.pdf)  
 
-
 ## Richard Lee (RL)
 [RL - Proof of Evidence](/cpo/richardleeproof.pdf)  
 [RL - Summary of Proof](/cpo/richardleesummary.pdf)  
@@ -227,7 +226,9 @@ AM5 - Screenshot from property website Zoopla, December 5th 2017 (see proof)
 [RN25 - Guardian article (29/03/2015)](/cpo/RN25.pdf)  
 [RN26 - Southwark News article (01/10/2015)](/cpo/RN26.pdf)  
 
-## Beverley Robinson (BR)
+## Statutory objectors
+
+### Beverley Robinson (BR)
 [BR - Proof of evidence](/cpo/beverleyrobinsonproof.pdf)  
 [BR - Summary of evidence](/cpo/beverleyrobinsonsummary.pdf)  
 [BRa - photograph](/cpo/BRa.pdf)  
@@ -238,7 +239,7 @@ AM5 - Screenshot from property website Zoopla, December 5th 2017 (see proof)
 [BR4 - Email to PINS dated 30/10/2015](/cpo/BR4.pdf)  
 [BR5 - ALAG representations to Southwark Council (2013-2017)](/cpo/BR5.pdf)  
 
-## Agnes Kabuto (SAK)
+### Agnes Kabuto (SAK)
 [SAK - Proof of evidence](/cpo/agneskabutoproof.pdf)  
 [SAK - Summary of evidence](/cpo/agneskabutosummary.pdf)  
 [SAK1 – View over Burgess Park from balcony](/cpo/SAK1.pdf)  
@@ -249,7 +250,7 @@ AM5 - Screenshot from property website Zoopla, December 5th 2017 (see proof)
 [SAK6 – photographs of local ethnic shops](/cpo/SAK6.pdf)  
 [SAK7 – L&Q Shared equity summary note](/cpo/SAK7.pdf)  
 
-## Rita Eneuchie (RE)
+### Rita Eneuchie (RE)
 [RE - Proof of evidence](/cpo/ritaeneuchieproof.pdf)  
 
 ## Non-statutory objectors
