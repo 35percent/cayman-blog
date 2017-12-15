@@ -252,16 +252,36 @@ AM5 - Screenshot from property website Zoopla, December 5th 2017 (see proof)
 ## Rita Eneuchie (RE)
 [RE - Proof of evidence](/cpo/ritaeneuchieproof.pdf)  
 
-## Victoria Briden (VB)
-[VB - Proof of evidence](/cpo/victoriabridenproof.pdf)  
+## Victoria Briden
+[VB - Statement of objection](/cpo/victoriabridenproof.pdf)  
 [VB1 - Major Works Bill](/cpo/VB1.pdf)  
 [VB2 - Photograph of Taplow](/cpo/VB2.pdf)  
 [VB3 - Photograph of Taplow](/cpo/VB3.pdf)  
 [VB4 - Guardian article (27/12/2001)](/cpo/VB4.pdf)  
 
-## Piers Corbyn (PC)
-[PC - Proof of evidence](/cpo/pierscorbynproof.pdf)  
+## Piers Corbyn
+[PC - Statement of objection](/cpo/pierscorbynproof.pdf)  
 
+## David Bailey
+[DB - Statement of objection](/cpo/dbailey.pdf)  
 
+## John Wesley Evans
+[JWE - Statement of objection](/cpo/johnwesleyevans.pdf)  
 
+## Maurizio Piga
+[MP - Statement of objection](/cpo/maurizio.pdf)  
 
+## Angela Aikins-Andoh
+[AAA - Statement of objection](/cpo/angelaaikins.pdf)  
+
+## Richard & Mary Osei-Kumaning
+[ROK - Statement of objection](/cpo/richardkumaning.pdf)  
+
+## Stephen Dogbatse
+[SD - Statement of objection](/cpo/stephendogbatse.pdf)  
+
+## Joy Nyack-Bins
+[JNB - Statement of objection](/cpo/joybins.pdf)  
+
+## Felix Badou
+[FB - Statement of objection](/cpo/felix.pdf)  
