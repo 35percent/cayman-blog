@@ -12,8 +12,20 @@ title: "ALAG Witness Evidence</br>CPO Public Inquiry (FDS site), Jan 2018</br> P
 [RB - Summary of evidence](/cpo/richardbaxtersummary.pdf)  
 [RB - Curriculum vitae](/cpo/richardbaxtercv.pdf)  
 
+## Sally Causer (SC)
+[SC - Proof of evidence](/cpo/sallycauserproof.pdf)  
+[SC1; AAAP Equalities Impact Assessment 2009](/cpo/SC1.pdf)  
+[SC2; 2006 Leaseholder Rehousing Policy](/cpo/SC2.pdf)  
+[SC3; 2009 Leaseholders Handbook](/cpo/SC3.pdf)  
+[SC4; Consultation Report for the Aylesbury Area Action Plan (Jan 2009)](/cpo/SC4.pdf)  
+SC5; Report FDS 23 April 2015 (See CD63)  
+SC6; Report authorising use of CPO powers Phase 1a/1b (see CD10)  
+[SC7; Southwark’s approach to equality](/cpo/SC7.pdf)  
+[SC8; Extract from FDS Design & Access Statement 14/AP/3843](/cpo/SC8.pdf)  
+[SC9; Forum for Equality and Human Rights in Southwark (southwark.gov.uk)](/cpo/SC9.pdf)  
+
 ## Bob Colenutt (BCT)
-[BCT - Proof of evidence](/cpo/bobcolenuttproof.pdf)  
+[B CT - Proof of evidence](/cpo/bobcolenuttproof.pdf)  
 [BCT - Summary of evidence](/cpo/bobcolenuttsummary.pdf)  
 [BCT - Curriculum Vitae](/cpo/bobcolenuttcv.pdf)  
 [BCT1 - Information Tribunal decision notices (EA/2014/0122, EA/2013/0162)](/cpo/BCT1.pdf)  
@@ -42,9 +54,9 @@ title: "ALAG Witness Evidence</br>CPO Public Inquiry (FDS site), Jan 2018</br> P
 [SM7 - E-mail from Ms B.Robinson to LBS dated 20 th November 2017](/cpo/SM7.pdf)  
 [SM8 - E-mail from LBS to Ms B.Robinson dated 27 th November 2017](/cpo/SM8.pdf)  
 [SM9 - BPTW April 2005 report-Refer to JB CD 1](/cpo/SM9.pdf)  
-[SM10 - Frost Associates report May 2005-refer to JB CD 1](/cpo/SM10.pdf)  
-[SM11 - 27 th September 2005 LBS Executive report and annexes](/cpo/SM11.pdf)  
-[SM12 - Levitt Bernstein 2005 Report-Refer to JB CD 1](/cpo/SM12.pdf)  
+SM10 - Frost Associates report May 2005 - refer to JB CD1  
+SM11 - 27 th September 2005 LBS Executive report and annexes - refer to (CD8)  
+SM12 - Levitt Bernstein 2005 Report-Refer to JB CD1   
 [SM13 - Savills research article (04/06/2015)](/cpo/SM13.pdf)  
 [SM14 - Explanatory note](/cpo/SM14.pdf)  
 [SM15 - Joshua v London Borough of Southwark (ACQ/82/2013)](/cpo/SM15.pdf)  
@@ -99,7 +111,7 @@ programme, Nov 2017](/cpo/LL4.pdf)
 [LL6 - Southwark News article (4/5/2017)](/cpo/LL6.pdf)  
 
 ## 35% Campaign witnesses
- 
+  
 ### Richard Lee (RL)
 [RL - Proof of Evidence](/cpo/richardleeproof.pdf)  
 [RL - Summary of Proof](/cpo/richardleesummary.pdf)  
