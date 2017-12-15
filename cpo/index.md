@@ -80,7 +80,12 @@ title: "ALAG Witness Evidence</br>CPO Public Inquiry (FDS site), Jan 2018</br> P
 ## George Turner (GT)
 [GT - Proof of evidence](/cpo/georgeturnerproof.pdf)  
 [GT1 - Guardian article (20/09/2016)](/cpo/GT1.pdf)  
-[GT2 - 
+[GT2 - Ourcity.London article (21/09/2016)](/cpo/GT2.pdf)  
+[GT3 - Architects Journal article (28/09/2016)](/cpo/GT3.pdf)   
+[GT4 – Independent article (28/08/2013)](/cpo/GT4.pdf)  
+[GT5 – Buy-back schedule, Aylesbury estate leaseholders](/cpo/GT5.pdf)  
+[GT5/a – Buy-back schedule, Aylesbury estate leaseholders](/cpo/GT5a.pdf)  
+[GT6 – Cabinet report, item 12 (20 Sep 2016)](/cpo/GT6.pdf)  
 
 ## Loretta Lees (LL)
 [LL - Proof of Evidence](/cpo/lorettaleesproof.pdf)  
