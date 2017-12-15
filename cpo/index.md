@@ -111,7 +111,7 @@ programme, Nov 2017](/cpo/LL4.pdf)
 [LL5 – Press article ‘Metro’ (9/10/2017)](/cpo/LL5.pdf)  
 [LL6 - Southwark News article (4/5/2017)](/cpo/LL6.pdf)  
 
-## Anna Minton
+## Anna Minton (AM)
 [AM - Proof of evidence](/cpo/annamintonproof.pdf)  
 [AM1 - Knock it Down or Do it Up? The challenge of estate regeneration. London Assembly 2015](/cpo/AM1.pdf)  
 AM2 - Screenshot of Elephant Park properties advertised on Rightmove, 7.12.17 (see proof)
@@ -227,7 +227,7 @@ AM5 - Screenshot from property website Zoopla, December 5th 2017 (see proof)
 [RN25 - Guardian article (29/03/2015)](/cpo/RN25.pdf)  
 [RN26 - Southwark News article (01/10/2015)](/cpo/RN26.pdf)  
 
-## Beverley Robinson
+## Beverley Robinson (BR)
 [BR - Proof of evidence](/cpo/beverleyrobinsonproof.pdf)  
 [BR - Summary of evidence](/cpo/beverleyrobinsonsummary.pdf)  
 [BRa - photograph](/cpo/BRa.pdf)  
@@ -252,36 +252,37 @@ AM5 - Screenshot from property website Zoopla, December 5th 2017 (see proof)
 ## Rita Eneuchie (RE)
 [RE - Proof of evidence](/cpo/ritaeneuchieproof.pdf)  
 
-## Victoria Briden
+## Non-statutory objectors
+### Victoria Briden
 [VB - Statement of objection](/cpo/victoriabridenproof.pdf)  
 [VB1 - Major Works Bill](/cpo/VB1.pdf)  
 [VB2 - Photograph of Taplow](/cpo/VB2.pdf)  
 [VB3 - Photograph of Taplow](/cpo/VB3.pdf)  
 [VB4 - Guardian article (27/12/2001)](/cpo/VB4.pdf)  
 
-## Piers Corbyn
+### Piers Corbyn
 [PC - Statement of objection](/cpo/pierscorbynproof.pdf)  
 
-## David Bailey
+### David Bailey
 [DB - Statement of objection](/cpo/dbailey.pdf)  
 
-## John Wesley Evans
+### John Wesley Evans
 [JWE - Statement of objection](/cpo/johnwesleyevans.pdf)  
 
-## Maurizio Piga
+### Maurizio Piga
 [MP - Statement of objection](/cpo/maurizio.pdf)  
 
-## Angela Aikins-Andoh
+### Angela Aikins-Andoh
 [AAA - Statement of objection](/cpo/angelaaikins.pdf)  
 
-## Richard & Mary Osei-Kumaning
+### Richard & Mary Osei-Kumaning
 [ROK - Statement of objection](/cpo/richardkumaning.pdf)  
 
-## Stephen Dogbatse
+### Stephen Dogbatse
 [SD - Statement of objection](/cpo/stephendogbatse.pdf)  
 
-## Joy Nyack-Bins
+### Joy Nyack-Bins
 [JNB - Statement of objection](/cpo/joybins.pdf)  
 
-## Felix Badou
+### Felix Badou
 [FB - Statement of objection](/cpo/felix.pdf)  
