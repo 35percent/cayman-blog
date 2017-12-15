@@ -120,9 +120,8 @@ AM4 - Displacement maps, produced by Southwark Notes, 35 per cent campaign, Just
 AM5 - Screenshot from property website Zoopla, December 5th 2017 (see proof)  
 [AM6 - Tenure diagram for site 7 planning consent (12/AP/2332)](/cpo/AM6.pdf)  
 
-## 35% Campaign witnesses
 
-### Richard Lee (RL)
+## Richard Lee (RL)
 [RL - Proof of Evidence](/cpo/richardleeproof.pdf)  
 [RL - Summary of Proof](/cpo/richardleesummary.pdf)  
 [RL1 – Extract from AAAP Sustainability Assessment](/RL1.pdf)  
@@ -130,7 +129,7 @@ AM5 - Screenshot from property website Zoopla, December 5th 2017 (see proof)
 [RL3 – Extract from FDS revised planning statement (14/AP/3843)](/cpo/RL3.pdf)  
 [RL4 – AAAP Background Paper, Infrastructure Tariff and S106 Contributions](/cpo/RL4.pdf)  
  
-### Jerry Flynn (JF)
+## Jerry Flynn (JF)
 [JF - Proof of evidence](/cpo/jerryflynnproof.pdf)  
 [JF - Summary of evidence](/cpo/jerryflynnsummary.pdf)  
 [JF - Annex 1](/cpo/jerryflynnannex1.pdf)  
@@ -199,7 +198,7 @@ AM5 - Screenshot from property website Zoopla, December 5th 2017 (see proof)
 [JF62 - GLA Stage 1 referral D&P/0306a/01](/cpo/JF62.pdf)  
 [JF63 - GLA Stage 2 referral D&P/0306a/02](/cpo/JF63.pdf)  
 
-### Rastko Novakovic (RN)
+## Rastko Novakovic (RN)
 [RN - Proof of Evidence](/cpo/rastkonovakovicproof.pdf)  
 [RN - Summary of Proof](/cpo/rastkonovakovicsummary.pdf)  
 [RN1 - Guardian article (26/10/2010)](/cpo/RN1.pdf)  
@@ -229,10 +228,18 @@ AM5 - Screenshot from property website Zoopla, December 5th 2017 (see proof)
 [RN25 - Guardian article (29/03/2015)](/cpo/RN25.pdf)  
 [RN26 - Southwark News article (01/10/2015)](/cpo/RN26.pdf)  
 
-### Beverley Robinson
+## Beverley Robinson
+[BR - Proof of evidence](/cpo/beverleyrobinsonproof.pdf)  
+[BR - Summary of evidence](/cpo/beverleyrobinsonsummary.pdf)  
+[BRa - photograph](/cpo/BRa.pdf)  
+[BRb - Photograph](/cpo/BRb.pdf)  
+[BR1 - Housing Act 1988 Schedule 6 RTB application](/cpo/BR1.pdf)  
+[BR2 - Aylesbury NDC leaflet, refurbishment proposals](/cpo/BR2.pdf)  
+[BR3 - Lease analysis and full text of existing lease vs shared equity lease](/cpo/BR3.pdf)  
+[BR4 - Email to PINS dated 30/10/2015](/cpo/BR4.pdf)  
+[BR5 - ALAG representations to Southwark Council (2013-2017)](/cpo/BR5.pdf)  
 
-
-### Agnes Kabuto (SAK)
+## Agnes Kabuto (SAK)
 [SAK - Proof of evidence](/cpo/agneskabutoproof.pdf)  
 [SAK - Summary of evidence](/cpo/agneskabutosummary.pdf)  
 [SAK1 – View over Burgess Park from balcony](/cpo/SAK1.pdf)  
