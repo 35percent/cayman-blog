@@ -111,8 +111,17 @@ programme, Nov 2017](/cpo/LL4.pdf)
 [LL5 – Press article ‘Metro’ (9/10/2017)](/cpo/LL5.pdf)  
 [LL6 - Southwark News article (4/5/2017)](/cpo/LL6.pdf)  
 
+## Anna Minton
+[AM - Proof of evidence](/cpo/annamintonproof.pdf)  
+[AM1 - Knock it Down or Do it Up? The challenge of estate regeneration. London Assembly 2015](/cpo/AM1.pdf)  
+AM2 - Screenshot of Elephant Park properties advertised on Rightmove, 7.12.17 (see proof)
+[AM3;  Faulty Towers: Understanding the impact of overseas corruption on the London property market. Transparency International 2017](/cpo/AM3.pdf)  
+AM4 - Displacement maps, produced by Southwark Notes, 35 per cent campaign, Just Space, University of Leicester and reproduced in Big Capital: Who is London for? (Penguin 2017) (see proof)  
+AM5 - Screenshot from property website Zoopla, December 5th 2017 (see proof)  
+[AM6 - Tenure diagram for site 7 planning consent (12/AP/2332)](/cpo/AM6.pdf)  
+
 ## 35% Campaign witnesses
-  
+
 ### Richard Lee (RL)
 [RL - Proof of Evidence](/cpo/richardleeproof.pdf)  
 [RL - Summary of Proof](/cpo/richardleesummary.pdf)  
@@ -153,7 +162,7 @@ programme, Nov 2017](/cpo/LL4.pdf)
 [JF26 - CD63 Planning officer’s report 23 April 2015 14/AP/3843 para 353](/cpo/JF26.pdf)  
 [JF27 - CIL form 17/AP/3885 11 Oct 2017 pg 3](/cpo/JF27.pdf)  
 [JF28 - Appendices 1,2,3 Schedule of Accommodation Design and Access Addendum V2 – PT 5 LR 17/AP/3885 Oct 2017](/cpo/JF28.pdf)  
-[[JF29 - CD63 Planning officer’s report 23 April 2015 14/AP/3843 para 84 Table 18](/cpo/JF29.pdf)  
+[JF29 - CD63 Planning officer’s report 23 April 2015 14/AP/3843 para 84 Table 18](/cpo/JF29.pdf)  
 [JF30 - GLA standard form agreement para 3.5 pg 52 2017](/cpo/JF30.pdf)  
 [JF31 - The Mayor’s draft Good Practice Guide to Estate Regeneration Dec 2019, para 9 pg 11; Affordable Housing and Viability SPG para 2.66, 2.67 pg 29](/cpo/JF31.pdf)  
 [JF32 - GLA Stage 1 referral D&P/0306a/01 para 19 pg 5](/cpo/JF32.pdf)  
@@ -219,9 +228,8 @@ programme, Nov 2017](/cpo/LL4.pdf)
 [RN25 - Guardian article (29/03/2015)](/cpo/RN25.pdf)  
 [RN26 - Southwark News article (01/10/2015)](/cpo/RN26.pdf)  
 
-## Aylesbury leaseholders
- 
 ### Beverley Robinson
+
 
 ### Agnes Kabuto (SAK)
 [SAK - Proof of evidence](/cpo/agneskabutoproof.pdf)  
@@ -235,8 +243,13 @@ programme, Nov 2017](/cpo/LL4.pdf)
 [SAK7 – L&Q Shared equity summary note](/cpo/SAK7.pdf)  
 
 ### Victoria Briden (VB)
-[VB - Proof of Evidence](/cpo/victoriabridenproof.pdf)  
+[VB - Proof of evidence](/cpo/victoriabridenproof.pdf)  
 [VB1 - Major Works Bill](/cpo/VB1.pdf)  
 [VB2 - Photograph of Taplow](/cpo/VB2.pdf)  
 [VB3 - Photograph of Taplow](/cpo/VB3.pdf)  
 [VB4 - Guardian article (27/12/2001)](/cpo/VB4.pdf)  
+
+### Piers Corbyn (PC)
+[PC - Proof of evidence](/cpo/pierscorbynproof.pdf)
+
+
