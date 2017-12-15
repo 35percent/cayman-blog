@@ -119,6 +119,8 @@ AM2 - Screenshot of Elephant Park properties advertised on Rightmove, 7.12.17 (s
 AM4 - Displacement maps, produced by Southwark Notes, 35 per cent campaign, Just Space, University of Leicester and reproduced in Big Capital: Who is London for? (Penguin 2017) (see proof)  
 AM5 - Screenshot from property website Zoopla, December 5th 2017 (see proof)  
 [AM6 - Tenure diagram for site 7 planning consent (12/AP/2332)](/cpo/AM6.pdf)  
+[AM7 - Abbey, Ciaran &amp; Balamuri, TBS. Housing the Mind. Legatum
+Institute 2016](/cpo/AM7.pdf)  
 
 ## Richard Lee (RL)
 [RL - Proof of Evidence](/cpo/richardleeproof.pdf)  
