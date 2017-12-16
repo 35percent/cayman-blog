@@ -132,7 +132,7 @@ programme, Nov 2017](/cpo/LL4.pdf)
  
 ## Simon Morrow (SM)
 [SM - Proof of evidence](/cpo/simonmorrowproof.pdf)  
-[SM - Curriculm Vitae](/cpo/simonmorrowcv.pdf)  
+[SM - Curriculum Vitae](/cpo/simonmorrowcv.pdf)  
 [SM1 - Notting Hill Housing Trust’s (NHHT) March 2015 Viability Statement](/cpo/SM1.pdf)  
 [SM2 - E-mail from Ms B.Robinson to LBS dated 2nd October 2017](/cpo/SM2.pdf)  
 [SM3 - Letter from LBS to Ms B.Robinson dated 23rd October 2017](/cpo/SM3.pdf)  
