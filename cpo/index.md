@@ -224,11 +224,12 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 [GT1 - Guardian article (20/09/2016)](/cpo/GT1.pdf)  
 [GT2 - Ourcity.London article (21/09/2016)](/cpo/GT2.pdf)  
 [GT3 - Architects Journal article (28/09/2016)](/cpo/GT3.pdf)   
-[GT4 – Independent article (28/08/2013)](/cpo/GT4.pdf)  
-[GT5 – Buy-back schedule, Aylesbury estate leaseholders](/cpo/GT5.pdf)  
-[GT5/a – Buy-back schedule, Aylesbury estate leaseholders](/cpo/GT5a.pdf)  
-[GT6 – Cabinet report, item 12 (20 Sep 2016)](/cpo/GT6.pdf)  
-
+[GT4 - Independent article (28/08/2013)](/cpo/GT4.pdf)  
+[GT5 - Buy-back schedule, Aylesbury estate leaseholders](/cpo/GT5.pdf)  
+[GT5/a - Buy-back schedule, Aylesbury estate leaseholders](/cpo/GT5a.pdf)  
+[GT6 - Cabinet report, item 12 (20 Sep 2016)](/cpo/GT6.pdf)  
+[GT7 - Section 12 of the DPA Business Plan (redacted)](/cpo/GT7.pdf)  
+[GT8 - Notting Hill Commercial Properties Ltd, Report & Financial statement - yr ended 31/03/2017 (extract)](/cpo/GT8.pdf)   
 
 ## Statutory objectors
 
