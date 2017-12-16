@@ -5,6 +5,8 @@ title: "Save OUR Aylesbury from THEIR regeneration"
 ## Save OUR Aylesbury from THEIR regeneration
 We are fighting to save our community from a top-down regeneration that is [forcing us out with derisory compensation offers](http://heygatewashome.org/img/SNWolverton.pdf) using [compulsory purchase orders](http://heygatewashome.org/img/SouthwarkNews9July2014.pdf).
 
+![](/img/saveourcommunity.png)
+
 [Investigations by the Guardian](https://www.theguardian.com/cities/2016/sep/20/aylesbury-estate-ruling-future-regeneration-sajid-javid) have shown how the Council as paying as little as £75k for a large (47m2) 1-bed flat, when equivalent ex-council properties in the area are selling for five times this amount.
 
 The Council says we can take up a 'shared equity' option on the new housing association homes being built on the estate, but these come with restrictions in the small print limiting a number of things like: succession rights, capital uplift, assignment rights, subletting clauses. We are also forced to sign [confidentiality agreements](https://halag.files.wordpress.com/2015/11/confidentiality_agreement.pdf) preventing us from talking about the restrictive clauses in the lease. Read more about the shared equity deal [here..](http://ouraylesbury.org/shared-equity-small-print/)
