@@ -289,3 +289,7 @@ Institute 2016](/cpo/AM7.pdf)
 
 ### Felix Badou
 [FB - Statement of objection](/cpo/felix.pdf)  
+
+## Statement of Case
+[Objectors' Statement of Case (Nov 2017)](/cpo/objectorsstatementofcaseNOV2017.pdf)  
+[Southwark Council's Statement of Case (Nov 2017)](/cpo/southwarkstatementofcaseNOV2017.pdf)  
