@@ -221,6 +221,7 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 
 ## George Turner (GT)
 [GT - Proof of evidence](/cpo/georgeturnerproof.pdf)  
+[GT - Summary of evidence](/cpo/georgeturnersummary.pdf)  
 [GT1 - Guardian article (20/09/2016)](/cpo/GT1.pdf)  
 [GT2 - Ourcity.London article (21/09/2016)](/cpo/GT2.pdf)  
 [GT3 - Architects Journal article (28/09/2016)](/cpo/GT3.pdf)   
