@@ -127,7 +127,7 @@ SC6 - Report authorising use of CPO powers Phase 1a/1b (see CD10)
 [RL - Proof of Evidence](/cpo/richardleeproof.pdf)  
 [RL - Summary of Proof](/cpo/richardleesummary.pdf)  
 [RL1 – Extract from AAAP Sustainability Assessment](/RL1.pdf)  
-[RL2 – FDS Revised Energy Strategy (14/AP/3843)](/cpo/RL2.pdf)  
+RL2 – Energy Strategy, Masterplan and FDS applications (14/AP/3843, 14/AP/3844) - see (CD49)  
 [RL3 – Extract from FDS revised planning statement (14/AP/3843)](/cpo/RL3.pdf)  
 [RL4 – AAAP Background Paper, Infrastructure Tariff and S106 Contributions](/cpo/RL4.pdf)  
  
