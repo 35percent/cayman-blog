@@ -234,7 +234,7 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 [GT8 - Report & Financial statement - yr ended 31/03/2017, Walworth Homes Ltd, Notting Hill Commercial Properties Ltd (extract)](/cpo/GT8.pdf)  
 [GT9 - Minutes of the Aylesbury regeneration Steering Group (redacted)](/cpo/GT9.pdf)  
 
-## Statutory objectors
+## Statutory Objectors
 
 ### Beverley Robinson (BR)
 [BR - Proof of evidence](/cpo/beverleyrobinsonproof.pdf)  
@@ -262,7 +262,7 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 ### Rita Eneuchie (RE)
 [RE - Proof of evidence](/cpo/ritaeneuchieproof.pdf)  
 
-## Non-statutory objectors
+## Non-Statutory Objectors
 ### Victoria Briden
 [VB - Statement of objection](/cpo/victoriabridenproof.pdf)  
 [VB1 - Major Works Bill](/cpo/VB1.pdf)  
