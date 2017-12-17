@@ -246,14 +246,15 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 [BR3 - Lease analysis and full text of existing lease vs shared equity lease](/cpo/BR3.pdf)  
 [BR4 - Email to PINS dated 30/10/2015](/cpo/BR4.pdf)  
 [BR5 - ALAG representations to Southwark Council (2013-2017)](/cpo/BR5.pdf)  
+[BR6 - Guardian article (03/09/2013)](/cpo/BR6.pdf)  
 
 ### Agnes Kabuto (SAK)
-[SAK - Proof of evidence](/cpo/agneskabutoproof.pdf)  
+[SAK - Proof of evidence](/cpo/agneskabutoproof.pdf )  
 [SAK - Summary of evidence](/cpo/agneskabutosummary.pdf)  
 [SAK1 – View over Burgess Park from balcony](/cpo/SAK1.pdf)  
 [SAK2 – Email communication with NHHT (dated 24/11/2015)](/cpo/SAK2.pdf)  
 [SAK3 – Email communication with L&Q (dated 28/09/2016)](/cpo/SAK3.pdf)  
-[SAK4 – Copy of my lease, SAK4a -shared ownership lease, SAK4b Deed of Variation;](/cpo/SAK4.pdf)  
+[SAK4 – My lease, Shared ownership lease, Deed of Variation, schedule of offers](/cpo/SAK4.pdf)  
 [SAK5 – Email communications between FDS leaseholder and Council (dated 5/09/2013)](/cpo/SAK5.pdf)  
 [SAK6 – photographs of local ethnic shops](/cpo/SAK6.pdf)  
 [SAK7 – L&Q Shared equity summary note](/cpo/SAK7.pdf)  
@@ -286,7 +287,7 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 
 ### Richard & Mary Osei-Kumaning
 [ROK - Statement of objection](/cpo/richardkumaning.pdf)  
-
+ 
 ### Stephen Dogbatse
 [SD - Statement of objection](/cpo/stephendogbatse.pdf)  
 
