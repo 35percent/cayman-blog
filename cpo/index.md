@@ -112,6 +112,7 @@ SC6 - Report authorising use of CPO powers Phase 1a/1b (see CD10)
 [JF63 - GLA Stage 2 referral D&P/0306a/02](/cpo/JF63.pdf)  
 
 ## Loretta Lees (LL)
+[LL - Curriculum Vitae](/cpo/lorettaleescv.pdf)  
 [LL - Proof of Evidence](/cpo/lorettaleesproof.pdf)  
 [LL - Summary of Proof](/cpo/lorettaleessummary.pdf)  
 [LL1 - Displacement maps](/cpo/LL1.pdf)  
