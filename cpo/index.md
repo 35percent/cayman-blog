@@ -229,7 +229,8 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 [GT5/a - Buy-back schedule, Aylesbury estate leaseholders](/cpo/GT5a.pdf)  
 [GT6 - Cabinet report, item 12 (20 Sep 2016)](/cpo/GT6.pdf)  
 [GT7 - Section 12 of the DPA Business Plan (redacted)](/cpo/GT7.pdf)  
-[GT8 - Report & Financial statement - yr ended 31/03/2017, Walworth Homes Ltd, Notting Hill Commercial Properties Ltd (extract)](/cpo/GT8.pdf)   
+[GT8 - Report & Financial statement - yr ended 31/03/2017, Walworth Homes Ltd, Notting Hill Commercial Properties Ltd (extract)](/cpo/GT8.pdf)  
+[GT9 - Minutes of the Aylesbury regeneration Steering Group (redacted)](/cpo/GT9.pdf)  
 
 ## Statutory objectors
 
