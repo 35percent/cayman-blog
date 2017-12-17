@@ -117,10 +117,10 @@ SC6 - Report authorising use of CPO powers Phase 1a/1b (see CD10)
 [LL1 - Displacement maps](/cpo/LL1.pdf)  
 [LL2 - Sample ESRC research interviews](/cpo/LL2.pdf)  
 [LL3 - Sample ESRC research interviews](/cpo/LL3.pdf)  
-[LL4 - 2015 Benchmark report for future monitoring of the regeneration
-programme, Nov 2017](/cpo/LL4.pdf)  
+[LL4 - Benchmarking report, Aylesbury regeneration, Nov 2017](/cpo/LL4.pdf)  
 [LL5 – Press article ‘Metro’ (9/10/2017)](/cpo/LL5.pdf)  
-[LL6 - Southwark News article (4/5/2017)](/cpo/LL6.pdf)  
+[LL6 - Tenure diagram, S73 Design Addendum, 17/AP/3885 (extract)](/cpo/LL6.pdf)   
+[LL7 - Southwark News article (4/5/2017)](/cpo/LL7.pdf)  
 
 ## Richard Lee (RL)
 [RL - Proof of Evidence](/cpo/richardleeproof.pdf)  
