@@ -7,6 +7,8 @@ title: "ALAG Witness Evidence</br>CPO Public Inquiry (FDS site), 9th-26th Jan 20
 * TOC
 {:toc}
 
+[Bundle Index](/cpo/ObjectorsCoreBundleIndex.pdf)  
+
 ## Richard Baxter (RB)
 [RB - Proof of evidence](/cpo/richardbaxterproof.pdf)  
 [RB - Summary of evidence](/cpo/richardbaxtersummary.pdf)  
