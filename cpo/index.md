@@ -236,19 +236,19 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 [GT8 - Report & Financial statement - yr ended 31/03/2017, Walworth Homes Ltd, Notting Hill Commercial Properties Ltd (extract)](/cpo/GT8.pdf)  
 [GT9 - Minutes of the Aylesbury regeneration Steering Group (redacted)](/cpo/GT9.pdf)  
 
-## Statutory Objectors
+## Objectors
 
-### Beverley Robinson (BR)
-[BR - Proof of evidence](/cpo/beverleyrobinsonproof.pdf)  
-[BR - Summary of evidence](/cpo/beverleyrobinsonsummary.pdf)  
-[BRa - photograph](/cpo/BRa.pdf)  
-[BRb - Photograph](/cpo/BRb.pdf)  
-[BR1 - Housing Act 1988 Schedule 6 RTB application](/cpo/BR1.pdf)  
-[BR2 - Aylesbury NDC leaflet, refurbishment proposals](/cpo/BR2.pdf)  
-[BR3 - Lease analysis and full text of existing lease vs shared equity lease](/cpo/BR3.pdf)  
-[BR4 - Email to PINS dated 30/10/2015](/cpo/BR4.pdf)  
-[BR5 - ALAG representations to Southwark Council (2013-2017)](/cpo/BR5.pdf)  
-[BR6 - Guardian article (03/09/2013)](/cpo/BR6.pdf)  
+>! ### Beverley Robinson (BR)
+>! [BR - Proof of evidence](/cpo/beverleyrobinsonproof.pdf)  
+>! [BR - Summary of evidence](/cpo/beverleyrobinsonsummary.pdf)  
+>! [BRa - photograph](/cpo/BRa.pdf)  
+>! [BRb - Photograph](/cpo/BRb.pdf)  
+>! [BR1 - Housing Act 1988 Schedule 6 RTB application](/cpo/BR1.pdf)  
+>! [BR2 - Aylesbury NDC leaflet, refurbishment proposals](/cpo/BR2.pdf)  
+>! [BR3 - Lease analysis and full text of existing lease vs shared equity lease](/cpo/BR3.pdf)  
+>! [BR4 - Email to PINS dated 30/10/2015](/cpo/BR4.pdf)  
+>! [BR5 - ALAG representations to Southwark Council (2013-2017)](/cpo/BR5.pdf)  
+>! [BR6 - Guardian article (03/09/2013)](/cpo/BR6.pdf)  
 
 ### Agnes Kabuto (SAK)
 [SAK - Proof of evidence](/cpo/agneskabutoproof.pdf )  
@@ -264,7 +264,6 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 ### Rita Eneuchie (RE)
 [RE - Proof of evidence](/cpo/ritaeneuchieproof.pdf)  
 
-## Non-Statutory Objectors
 ### Victoria Briden
 [VB - Statement of objection](/cpo/victoriabridenproof.pdf)  
 [VB1 - Major Works Bill](/cpo/VB1.pdf)  
