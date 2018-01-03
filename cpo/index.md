@@ -300,6 +300,17 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 ### Felix Badou
 [FB - Statement of objection](/cpo/felix.pdf)  
 
-## Statement of Case
+## Case documents
 [Objectors' Statement of Case (Nov 2017)](/cpo/objectorsstatementofcaseNOV2017.pdf)  
-[Southwark Council's Statement of Case (Nov 2017)](/cpo/southwarkstatementofcaseNOV2017.pdf)  
+[Southwark Council's Statement of Case (Nov 2017)](/cpo/southwarkstatementofcaseNOV2017.pdf)
+
+[Objectors' rebuttal statement Jan 2018 (ORS)]
+[ORS1 - EPC certificates (FDS & phase 1A)]()
+
+[ORS2 - Photograph of Padbury maisonettes]()
+
+
+
+## Objectors' display boards
+[EPC certificate comparison](http://35percent.org/img/epcomparison.png) 
+  
