@@ -308,9 +308,11 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 [ORS1 - EPC certificates (FDS & phase 1A)](http://35percent.org/img/aylesburynewvsoldepc.pdf)  
 [ORS2 - Photograph of Padbury maisonettes](/cpo/padbury1.jpg)  
 [ORS3 - Photograph of Padbury maisonettes](/cpo/padbury2.jpg)  
-
+[ORS4 - Southwark News article (01/06/2017)](/cpo/SN_HarrietHarmann_01062017.pdf  
 ## Objectors' display boards
 [EPC certificate comparison](http://35percent.org/img/epcomparison.png)  
 [SM18-2 - Option to retain Chiltern](/cpo/SM18-2.pdf)  
 [ORS2 - Photograph of Padbury maisonettes](/cpo/padbury1.jpg)  
-[ORS3 - Photograph of Padbury maisonettes](/cpo/padbury2.jpg)  
+[ORS3 - Photograph of Padbury maisonettes](/cpo/padbury2.jpg) 
+[ORS4 - Southwark News article (01/06/2017)](/cpo/SN_HarrietHarmann_01062017.pdf  
+ 
