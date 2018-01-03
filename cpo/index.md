@@ -155,7 +155,7 @@ SM12 - Levitt Bernstein 2005 Report-Refer to (JB;CD1)
 [SM17 - Cost Estimate for Refurbishment of Chiltern; 120-149 Chartridge](/cpo/SM17.pdf)  
 [SM18-1 - Option to retain Chiltern](/cpo/SM18-1.pdf)  
 [SM18-2 - Option to retain Chiltern](/cpo/SM18-2.pdf)  
-
+ 
 ## Anna Minton (AM)
 [AM - Proof of evidence](/cpo/annamintonproof.pdf)  
 [AM1 - Knock it Down or Do it Up? The challenge of estate regeneration. London Assembly 2015](/cpo/AM1.pdf)  
@@ -302,15 +302,15 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 
 ## Case documents
 [Objectors' Statement of Case (Nov 2017)](/cpo/objectorsstatementofcaseNOV2017.pdf)  
-[Southwark Council's Statement of Case (Nov 2017)](/cpo/southwarkstatementofcaseNOV2017.pdf)
+[Southwark Council's Statement of Case (Nov 2017)](/cpo/southwarkstatementofcaseNOV2017.pdf)  
 
 [Objectors' rebuttal statement Jan 2018 (ORS)]
-[ORS1 - EPC certificates (FDS & phase 1A)]()
-
-[ORS2 - Photograph of Padbury maisonettes]()
-
-
+[ORS1 - EPC certificates (FDS & phase 1A)](http://35percent.org/img/aylesburynewvsoldepc.pdf)  
+[ORS2 - Photograph of Padbury maisonettes](/cpo/padbury1.jpg)  
+[ORS3 - Photograph of Padbury maisonettes](/cpo/padbury2.jpg)  
 
 ## Objectors' display boards
-[EPC certificate comparison](http://35percent.org/img/epcomparison.png) 
-  
+[EPC certificate comparison](http://35percent.org/img/epcomparison.png)  
+[SM18-2 - Option to retain Chiltern](/cpo/SM18-2.pdf)  
+[ORS2 - Photograph of Padbury maisonettes](/cpo/padbury1.jpg)  
+[ORS3 - Photograph of Padbury maisonettes](/cpo/padbury2.jpg)  
