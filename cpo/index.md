@@ -305,7 +305,7 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 [Southwark Council's Statement of Case (Nov 2017)](/cpo/southwarkstatementofcaseNOV2017.pdf)  
 
 ### Rebuttal Statement
-[Objectors' rebuttal statement Jan 2018 (ORS)]()    
+[Objectors' rebuttal statement Jan 2018 (ORS)]()  
 [ORS1 - EPC certificates (FDS & phase 1A)](http://35percent.org/img/aylesburynewvsoldepc.pdf)  
 [ORS2 - Photograph of Padbury maisonettes](/cpo/padbury1.jpg)  
 [ORS3 - Photograph of Padbury maisonettes](/cpo/padbury2.jpg)  
@@ -318,6 +318,9 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 [ORS10 - FDS Design & Access Statement (14/AP/3843 - massing model)](/cpo/FDSmassingmodel.pdf)  
 [ORS11 - Extract from HTA sunglight/daylight assessment (14/AP/3843)](/cpo/HTAsunglightdaylight.pdf)  
 [ORS12 - Extract from AAAP Background Paper - Visual Impact Assessment](/cpo/AAAPvisualimpactassessment.pdf)  
+[ORS13 - Six Acres estate photographs (before and after refurbishment)](/cpo/sixacresphotos.pdf)  
+[ORS14 - Six Acres refurbishment info](/cpo/sixacresrefurb2.pdf)  
+[ORS15 - The Doddington estate, Battersea (photos)](/cpo/doddington.pdf)  
 
 ## Objectors' display boards
 [EPC certificate comparison](http://35percent.org/img/epcomparison.png)  
@@ -332,4 +335,5 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 [ORS11 - Extract from HTA sunglight/daylight assessment (14/AP/3843)](/cpo/HTAsunglightdaylight.pdf)  
 [ORS12 - Extract from AAAP Background Paper - Visual Impact Assessment](/cpo/AAAPvisualimpactassessment.pdf)  
 [Page 23 of the Area Action Plan (CD2)](/cpo/AAAPpage23.pdf)  
-
+[ORS13 - Six Acres estate photographs (before and after refurbishment)](/cpo/sixacresphotos.pdf)  
+[ORS15 - The Doddington estate, Battersea (photos)](/cpo/doddington.pdf)  
