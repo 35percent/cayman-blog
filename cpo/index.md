@@ -301,11 +301,11 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 [FB - Statement of objection](/cpo/felix.pdf)  
 
 ## Case documents
-[Objectors' Statement of Case (Nov 2017)](/cpo/objectorsstatementof caseNOV2017.pdf)  
+[Objectors' Statement of Case (Nov 2017)](/cpo/objectorsstatementof caseNOV2017.pd f)  
 [Southwark Council's Statement of Case (Nov 2017)](/cpo/southwarkstatementofcaseNOV2017.pdf)  
 
 ### Rebuttal Statement
-[Objectors' rebuttal statement Jan 2018 (ORS)]()   
+[Objectors' rebuttal statement Jan 2018 (ORS)]()    
 [ORS1 - EPC certificates (FDS & phase 1A)](http://35percent.org/img/aylesburynewvsoldepc.pdf)  
 [ORS2 - Photograph of Padbury maisonettes](/cpo/padbury1.jpg)  
 [ORS3 - Photograph of Padbury maisonettes](/cpo/padbury2.jpg)  
@@ -316,7 +316,8 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 [ORS8 - Extract from FDS Design & Access Statement pg 20 (14/AP/4843)](/cpo/FDSdesignaccesstatement.pdf)  
 [ORS9 - FDS Design & Access Statement (14/AP/3843 - extract{VW Tartan Suit})](/cpo/FDSdesignaccessvw.pdf)  
 [ORS10 - FDS Design & Access Statement (14/AP/3843 - massing model)](/cpo/FDSmassingmodel.pdf)  
-[ORS11 - Extract from HTA sunglight/daylight assessment (14/AP/3843)](/cpo/HTAsunlightdaylight.pdf)  
+[ORS11 - Extract from HTA sunglight/daylight assessment (14/AP/3843)](/cpo/HTAsunglightdaylight.pdf)  
+[ORS12 - Extract from AAAP Background Paper - Visual Impact Assessment](/cpo/AAAPvisualimpactassessment.pdf)  
 
 ## Objectors' display boards
 [EPC certificate comparison](http://35percent.org/img/epcomparison.png)  
@@ -328,4 +329,7 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 [ORS8 - FDS Design & Access Statement pg 20 (14/AP/3843)](/cpo/FDSdesignaccesstatement.pdf)  
 [ORS9 - Extract from FDS Design & Access Statement (14/AP/3843 - {Gold Fascia, VW Tartan Suit})](/cpo/FDSdesignaccessvw.pdf)  
 [ORS10 - Extract from FDS Design & Access Statement (14/AP/3843 - massing model)](/cpo/FDSmassingmodel.pdf)  
-[ORS11 - Extract from HTA sunglight/daylight assessment (14/AP/3843)](/cpo/HTAsunlightdaylight.pdf)  
+[ORS11 - Extract from HTA sunglight/daylight assessment (14/AP/3843)](/cpo/HTAsunglightdaylight.pdf)  
+[ORS12 - Extract from AAAP Background Paper - Visual Impact Assessment](/cpo/AAAPvisualimpactassessment.pdf)  
+[Page 23 of the Area Action Plan (CD2)](/cpo/AAAPpage23.pdf)  
+
