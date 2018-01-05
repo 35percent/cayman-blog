@@ -304,7 +304,7 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 [Objectors' Statement of Case (Nov 2017)](/cpo/objectorsstatementof caseNOV2017.pd f)  
 [Southwark Council's Statement of Case (Nov 2017)](/cpo/southwarkstatementofcaseNOV2017.pdf)  
 
-### Rebuttal Statement
+### Objectors' Rebuttal Statement (ORS)
 [Objectors' rebuttal statement Jan 2018 (ORS)]()  
 [ORS1 - EPC certificates (FDS & phase 1A)](http://35percent.org/img/aylesburynewvsoldepc.pdf)  
 [ORS2 - Photograph of Padbury maisonettes](/cpo/padbury1.jpg)  
@@ -321,6 +321,16 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 [ORS13 - Six Acres estate photographs (before and after refurbishment)](/cpo/sixacresphotos.pdf)  
 [ORS14 - Six Acres refurbishment info](/cpo/sixacresrefurb2.pdf)  
 [ORS15 - The Doddington estate, Battersea (photos)](/cpo/doddington.pdf)  
+
+### Simon Morrow's Rebuttal Statement
+[SM - Rebuttal Statement]()  
+[SM19 - Massing Study (revised)](/cpo/SM19-MassingStudy.pdf)  
+[SM20 - Masterplan, FDS site proposal](/cpo/SM20-Masterplan.pdf)  
+[SM21 - Summary of Refurbishment costs (Chiltern only)](/cpo/SM21-summaryofrefurbcosts.xlsx)  
+[SM22 - SPONS 2018, comparison of demolition costs](/cpo/SM22spons.pdf)  
+[SM23 - LBS public question Cabinet meeting (31/10/2017)](/cpo/SM23cabinet.pdf)  
+[SM24 - Statement of fact and declaration](/cpo/SM24declaration.pdf)  
+
 
 ## Objectors' display boards
 [EPC certificate comparison](http://35percent.org/img/epcomparison.png)  
