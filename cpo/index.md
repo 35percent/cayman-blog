@@ -345,7 +345,7 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 [SM19 - Massing Study (revised)](/cpo/SM19-MassingStudy.pdf)  
 [SM20 - Masterplan, FDS site proposal](/cpo/SM20-Masterplan.pdf)  
 [SM21 - Summary of Refurbishment costs (Chiltern only)](/cpo/SM21-summaryofrefurbcosts.xlsx)  
-[SM22 - SPONS 2018, comparison of demolition costs](/cpo/SM22spons.pdf)  
+[SM22 - SPONS 2018, comparison of demolition costs](/cpo/SM22-spons.pdf)  
 [SM23 - LBS public question Cabinet meeting (31/10/2017)](/cpo/SM23cabinet.pdf)  
 [SM24 - Statement of fact and declaration](/cpo/SM24declaration.pdf)  
 
