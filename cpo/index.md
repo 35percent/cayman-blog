@@ -337,6 +337,9 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 [ORS26 - Prof. Loretta Lees paper on urban geography](/cpo/ORS26.pdf)  
 [ORS27 - Paper by Loretta Lees and Richard Baxter](/cpo/ORS27.pdf)  
 
+### Peter Raynham's Rebuttal Statement
+[PR - Peter Raynham's Rebuttal Statement](/cpo/peterraynhamrebuttal.pdf)  
+
 ### Simon Morrow's Rebuttal Statement
 [SM - Rebuttal Statement](/cpo/simonmorrowrebuttal.pdf)  
 [SM19 - Massing Study (revised)](/cpo/SM19-MassingStudy.pdf)  
