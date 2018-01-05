@@ -334,6 +334,8 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 [ORS24a - LBS Letter to residents (10/03/2013)](/cpo/ORS24a.pdf)  
 [ORS24b - LBS Letter to residents (22/03/2013)](/cpo/ORS24b.pdf)  
 [ORS25 - LBS, Lakanal fire inquest, Coroner's recommendations](/cpo/ORS25.pdf)  
+[ORS26 - Prof. Loretta Lees paper on urban geography](/cpo/ORS26.pdf)  
+[ORS27 - Paper by Loretta Lees and Richard Baxter](/cpo/ORS27.pdf)  
 
 ### Simon Morrow's Rebuttal Statement
 [SM - Rebuttal Statement](/cpo/simonmorrowrebuttal.pdf)  
