@@ -349,6 +349,11 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 [SM23 - LBS public question Cabinet meeting (31/10/2017)](/cpo/SM23cabinet.pdf)  
 [SM24 - Statement of fact and declaration](/cpo/SM24declaration.pdf)  
 
+## Jane Rendell's Rebuttal Statement
+[JR - Rebuttal Statement](/cpo/janerendellrebuttal.pdf)  
+
+## Agnes Kabuto's Rebuttal Statement
+[SAK - Rebuttal Statement](/cpo/agneskabutorebuttal.pdf)  
 
 ## Objectors' display boards
 [EPC certificate comparison](http://35percent.org/img/epcomparison.png)  
