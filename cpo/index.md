@@ -308,6 +308,8 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 [Peter Raynham's Rebuttal Statement](/cpo/peterraynhamrebuttal.pdf)  
 [Agnes Kabuto's Rebuttal Statement](/cpo/agneskabutorebuttal.pdf)  
 [Jane Rendell's Rebuttal Statement](/cpo/janerendellrebuttal.pdf)  
+[Beverley Robinson's Rebuttal Statement](/cpo/beverleyrobinsonrebuttal.pdf)  
+[Loretta Lees's Rebuttal Statement](/cpo/lorettaleesrebuttal.pdf)  
 
 [ORS1 - EPC certificates (FDS & phase 1A)](http://35percent.org/img/aylesburynewvsoldepc.pdf)  
 [ORS2 - Photograph of Padbury maisonettes](/cpo/padbury1.jpg)  
