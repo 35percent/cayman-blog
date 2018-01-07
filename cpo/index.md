@@ -338,6 +338,7 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 [ORS27 - Paper by Loretta Lees and Richard Baxter](/cpo/ORS27.pdf)  
 [ORS28 - Compulsory Purchase and Compensation Compensation to Business Owners and Occupiers (Oct 2004)](/cpo/ORS28.pdf)  
 [ORS29 - Minutes of meetings in (April 2016;April 2017) with LBS, Beverley Robinson, Agnes Kabuto](/cpo/ORS29.pdf)  
+[ORS30 - Email exchanges between Beverley Robinson and NHHT re: rehousing](/cpo/ORS30.pdf)  
 
 ### Peter Raynham's Rebuttal Statement
 [PR - Peter Raynham's Rebuttal Statement](/cpo/peterraynhamrebuttal.pdf)  
