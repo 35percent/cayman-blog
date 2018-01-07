@@ -304,8 +304,11 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 [Objectors' Statement of Case (Nov 2017)](/cpo/objectorsstatementof caseNOV2017.pd f)  
 [Southwark Council's Statement of Case (Nov 2017)](/cpo/southwarkstatementofcaseNOV2017.pdf)  
 
-### Objectors' Rebuttal Statement (ORS)
-[Objectors' rebuttal statement Jan 2018 (ORS)]()  
+### Objectors' Rebuttal Statements (ORS)
+[Peter Raynham's Rebuttal Statement](/cpo/peterraynhamrebuttal.pdf)  
+[Agnes Kabuto's Rebuttal Statement](/cpo/agneskabutorebuttal.pdf)  
+[Jane Rendell's Rebuttal Statement](/cpo/janerendellrebuttal.pdf)  
+
 [ORS1 - EPC certificates (FDS & phase 1A)](http://35percent.org/img/aylesburynewvsoldepc.pdf)  
 [ORS2 - Photograph of Padbury maisonettes](/cpo/padbury1.jpg)  
 [ORS3 - Photograph of Padbury maisonettes](/cpo/padbury2.jpg)  
@@ -340,9 +343,7 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 [ORS29 - Minutes of meetings in (April 2016;April 2017) with LBS, Beverley Robinson, Agnes Kabuto](/cpo/ORS29.pdf)  
 [ORS30 - Email exchanges between Beverley Robinson and NHHT re: rehousing](/cpo/ORS30.pdf)  
 
-### Peter Raynham's Rebuttal Statement
-[PR - Peter Raynham's Rebuttal Statement](/cpo/peterraynhamrebuttal.pdf)  
-
+ 
 ### Simon Morrow's Rebuttal Statement
 [SM - Rebuttal Statement](/cpo/simonmorrowrebuttal.pdf)  
 [SM19 - Massing Study (revised)](/cpo/SM19-MassingStudy.pdf)  
@@ -352,11 +353,7 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 [SM23 - LBS public question Cabinet meeting (31/10/2017)](/cpo/SM23cabinet.pdf)  
 [SM24 - Statement of fact and declaration](/cpo/SM24declaration.pdf)  
 
-## Jane Rendell's Rebuttal Statement
-[JR - Rebuttal Statement](/cpo/janerendellrebuttal.pdf)  
 
-## Agnes Kabuto's Rebuttal Statement
-[SAK - Rebuttal Statement](/cpo/agneskabutorebuttal.pdf)  
 
 ## Objectors' display boards
 [EPC certificate comparison](http://35percent.org/img/epcomparison.png)  
