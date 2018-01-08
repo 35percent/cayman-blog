@@ -347,7 +347,7 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 [ORS31 (SM22) - SPONS 2018, comparison of demolition costs](/cpo/SM22-spons.pdf)  
 [ORS32 (SM23) - LBS public question Cabinet meeting (31/10/2017)](/cpo/SM23cabinet.pdf)  
 [ORS33 (SM24) - Statement of fact and declaration](/cpo/SM24declaration.pdf)  
-[ORS34 - Email from LBS to Beverley Robinson (10/03/2014) & meeting minutes](/cpo/ORS34.pdf)  
+[ORS34 - Email exchanges and meeting minutes (LBS & Beverley Robinson)](/cpo/ORS34.pdf)  
 
 ## Objectors' display boards
 [EPC certificate comparison](http://35percent.org/img/epcomparison.png)  
