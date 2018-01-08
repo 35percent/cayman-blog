@@ -306,10 +306,11 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 
 ### Objectors' Rebuttal Statements (ORS)
 [Peter Raynham's Rebuttal Statement](/cpo/peterraynhamrebuttal.pdf)  
+[Simon Morrow's Rebuttal Statement](/cpo/simonmorrowrebuttal.pdf)  
 [Agnes Kabuto's Rebuttal Statement](/cpo/agneskabutorebuttal.pdf)  
 [Jane Rendell's Rebuttal Statement](/cpo/janerendellrebuttal.pdf)  
 [Beverley Robinson's Rebuttal Statement](/cpo/beverleyrobinsonrebuttal.pdf)  
-[Loretta Lees's Rebuttal Statement](/cpo/lorettaleesrebuttal.pdf)  
+[Loretta Lees' Rebuttal Statement](/cpo/lorettaleesrebuttal.pdf)  
 
 [ORS1 - EPC certificates (FDS & phase 1A)](http://35percent.org/img/aylesburynewvsoldepc.pdf)  
 [ORS2 - Government guidance - compulsory purchase & compensation (Oct 2004) (extract)](/cpo/ORS2.pdf)  
@@ -336,25 +337,17 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 [ORS21b - Decant data](/cpo/ORS21b.pdf)  
 [ORS22 - Email exchange, Beverley Robinson](/cpo/ORS22.pdf)  
 [ORS23 - District Valuer determination and sales comparables (14/12/2017); Land registry records)](/cpo/ORS23.pdf)  
-[ORS24a - LBS Letter to residents (10/03/2013)](/cpo/ORS24a.pdf)  
-[ORS24b - LBS Letter to residents (22/03/2013)](/cpo/ORS24b.pdf)  
+[ORS24 - LBS Letters to residents (10/03/2013;22/03/2013)](/cpo/ORS24.pdf)  
 [ORS25 - LBS, Lakanal fire inquest, Coroner's recommendations](/cpo/ORS25.pdf)  
 [ORS26 - Prof. Loretta Lees paper on urban geography](/cpo/ORS26.pdf)  
 [ORS27 - Paper by Loretta Lees and Richard Baxter](/cpo/ORS27.pdf)  
-[ORS28 - Minutes of meetings in (April 2016;April 2017) with LBS, Beverley Robinson, Agnes Kabuto](/cpo/ORS29.pdf)  
-[ORS29 - Email exchanges between Beverley Robinson and NHHT re: rehousing](/cpo/ORS30.pdf)  
-
- 
-### Simon Morrow's Rebuttal Statement
-[SM - Rebuttal Statement](/cpo/simonmorrowrebuttal.pdf)  
-[SM19 - Massing Study (revised)](/cpo/SM19-MassingStudy.pdf)  
-[SM20 - Masterplan, FDS site proposal](/cpo/SM20-Masterplan.pdf)  
-[SM21 - Summary of Refurbishment costs (Chiltern only)](/cpo/SM21-summaryofrefurbcosts.xlsx)  
-[SM22 - SPONS 2018, comparison of demolition costs](/cpo/SM22-spons.pdf)  
-[SM23 - LBS public question Cabinet meeting (31/10/2017)](/cpo/SM23cabinet.pdf)  
-[SM24 - Statement of fact and declaration](/cpo/SM24declaration.pdf)  
-
-
+[ORS28 (SM19) - Massing study (revised)](/cpo/SM19-MassingStudy.pdf)  
+[ORS29 (SM20) - Masterplan, FDS site proposal](/cpo/SM20-Masterplan.pdf)  
+[ORS30 (SM21) - Summary of refurbishment costs (Chiltern only) - update of previous estimate](/cpo/SM21-summaryofrefurbcosts.xlsx)  
+[ORS31 (SM22) - SPONS 2018, comparison of demolition costs](/cpo/SM22-spons.pdf)  
+[ORS32 (SM23) - LBS public question Cabinet meeting (31/10/2017)](/cpo/SM23cabinet.pdf)  
+[ORS33 (SM24) - Statement of fact and declaration](/cpo/SM24declaration.pdf)  
+[ORS34 - Email from LBS to Beverley Robinson (10/03/2014) & meeting minutes](/cpo/ORS34.pdf)  
 
 ## Objectors' display boards
 [EPC certificate comparison](http://35percent.org/img/epcomparison.png)  
