@@ -41,6 +41,15 @@ Why can't it just swap one of its
 
 21% profit
 
+
+## Balance sheet - council subsidy = NHHT profit
+Paragraph 8.4 of the Acquiring Authority's statement of case (NOV 2017) says:
+
+> "Notting Hill has to date spent 14.5m in progressing its proposals for the redevelopment of the Order Land, securing planning approval and undertaking the diversion of utilities (telecommunications, electricity, gas, water) currently serving the Order Land" 
+
+Ask Ms Purser to confirm this and then take her to paragraph 30 of GT6 and ask her to confirm that the utilities works will be reimbursed by the Council: _"It is agreed that the council will reimburse the costs of the Above Ground and Below Ground Demolition at the FDS, __as well as service diversions required.__"_ 
+
+
 Go to GT6 and point out NHHT's board's rejection of £22m costs of the scheme that it was supposed to fund but now the Council has stepped in (GT6, para 16; table 1). We know the £16.8m demolition costs will be recouped by the Council in the form of the £17.5m land payment, but will the other phase 2 and plot 18 design fees be recouped? the Cabinet report is not clear.
 
 ## £30m GLA funding
