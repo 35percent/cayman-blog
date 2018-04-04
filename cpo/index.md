@@ -301,7 +301,7 @@ Considerations to Inform Risk Assessments (10/03/05)](/cpo/JR2.pdf)
 [FB - Statement of objection](/cpo/felix.pdf)  
 
 ## Case documents
-[Objectors' Statement of Case (Nov 2017)](/cpo/objectorsstatementof caseNOV2017.pd f)  
+[Objectors' opening statement (Jan 2018)](/cpo/openingstatement.pdf)  
 [Southwark Council's Statement of Case (Nov 2017)](/cpo/southwarkstatementofcaseNOV2017.pdf)  
 
 ### Objectors' Rebuttal Statements (ORS)
