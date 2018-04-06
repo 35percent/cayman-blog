@@ -6,6 +6,8 @@ date: "2018-04-06"
 
 On 16 March 2018, as a direct consequence of the Aylesbury Leaseholders Group’s (ALAG) [representations](http://ouraylesbury.org/cpo) to the January 2018 public inquiry, Southwark Council changed its policy to [introduce an 'equity loan' scheme](http://moderngov.southwark.gov.uk/mgIssueHistoryHome.aspx?IId=50016624&amp;Opt) for leaseholders on regeneration estates.
 
+![](/img/newpolicy.png)
+
 This scheme meets most, if not all of the policy requirements that ALAG maintained at the public inquiry were necessary to mitigate the effects of gentrification and displacement of leaseholders in regeneration schemes.
 
 As a result of Southwark's welcome change of policy, the ALAG and Southwark have settled the dispute between them on terms which are based on the new policy decision.
