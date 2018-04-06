@@ -4,7 +4,7 @@ title: "New Council policy settles CPO dispute"
 date: "2018-04-06"
 ---
 
-On 16 March 2018, as a direct consequence of the Aylesbury Leaseholders Group’s (ALAG) [representations](http://ouraylesbury.org/cpo) to the January 2018 public inquiry, Southwark Council changed its policy to [introduce an 'equity loan' scheme](http://moderngov.southwark.gov.uk/mgIssueHistoryHome.aspx?IId=50016624&amp;Opt) for leaseholders on regeneration estates.
+On 5th April 2018, as a direct consequence of the Aylesbury Leaseholders Group’s (ALAG) [representations](http://ouraylesbury.org/cpo) to the January 2018 public inquiry, Southwark Council changed its policy to [introduce an 'equity loan' scheme](http://moderngov.southwark.gov.uk/mgIssueHistoryHome.aspx?IId=50016624&amp;Opt) for leaseholders on regeneration estates.
 
 ![](/img/newpolicy.png)
 
