@@ -8,7 +8,7 @@ On 5th April 2018, as a direct consequence of the Aylesbury Leaseholders Groupâ€
 
 ![](/img/newpolicy.png)
 
-This scheme meets most, if not all of the policy requirements that ALAG maintained at the public inquiry were necessary to mitigate the effects of gentrification and displacement of leaseholders in regeneration schemes.
+This scheme meets most, if not all of the policy requirements that ALAG maintained at the public inquiry were necessary to mitigate the effects of gentrification and displacement of leaseholders in regeneration schemes. This is done by way of a council-funded interest-free loan, enabling leaseholders to purchase full title of a new home with a minimum 25% equity share and removing the [small print](http://ouraylesbury.org/shared-equity-small-print/) restrictions contained within the previous policy.
 
 As a result of Southwark's welcome change of policy, the ALAG and Southwark have settled the dispute between them on terms which are based on the new policy decision.
 The effect of ALAG's representations to the public inquiry has produced a favourable outcome for the Aylesbury leaseholders and it is hoped that the new policy change represents the beginning of local authorities recognising that the rights of leaseholders must be properly addressed in regeneration schemes both London and nation-wide.
