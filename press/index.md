@@ -27,3 +27,5 @@ LINK to new 'Equity Loan' policy - [http://moderngov.southwark.gov.uk/mgIssueHis
 
 
 CONTACT - haleaseholders@gmail.com
+
+POSTSCRIPT ARTICLE: [www.southwarknews.co.uk - 19 April 2018](/img/SN19April2018.pdf) 
