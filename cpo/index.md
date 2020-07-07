@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ALAG Witness Evidence</br>CPO Public Inquiry (FDS site), 9th-26th Jan 2018</br> PINS REF: NPCU/ouraylesbury/cpo/A5840/74092"
+title: "Objectors' evidence submitted to the CPO Public Inquiry (FDS site), 9th-26th Jan 2018</br> PINS REF: NPCU/ouraylesbury/cpo/A5840/74092"
 ---
 ![](http://35percent.org/img/phase1baerial.png)
 **Witness evidence:**
